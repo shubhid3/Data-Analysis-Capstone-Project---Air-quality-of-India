@@ -1,4 +1,4 @@
-State,Avg_AQI,PM_2.5,PM_10,Nitrogen_dioxide,Sulphur_dioxide,Ground_ozone,Industrial_units_,Green_cover_percent,Good_air_days,Poor_air_days
+State,Avg_AQI,PM_2.5,PM_10,Nitrogen_dioxide,Sulphur_dioxide,Ground_ozone,Industrial_units,Green_cover_percent,Good_air_days,Poor_air_days
 J&K,81,36,60,25,15,40,100,50,290,10
 Punjab,141,83,130,50,25,45,850,5,190,55
 Haryana,140,83,125,45,20,40,750,5,195,60
